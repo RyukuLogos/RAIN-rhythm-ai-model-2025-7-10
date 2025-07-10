@@ -3,7 +3,7 @@
 This repository contains the official HTML and PDF release of the RAIN theory.
 
 📄 **Main HTML Document**: [`index.html`](https://ryukulogos.github.io/RAIN-rhythm-ai-model-2025-7-10/rain_theory_pdf.html)  
-📘 **PDF Version**: [`RAIN_Theory_Full.pdf`]english()  　　　　[日本語PDF版](RAIN日本語版)
+📘 **PDF Version**: [`RAIN_Theory_Full.pdf`]english()  　　　　[日本語PDF版](RAIN日本語版.pdf)
 
 ---
 
