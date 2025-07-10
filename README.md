@@ -4,7 +4,7 @@ This repository contains the official release of the RAIN theory — a rhythm-ba
 
 ## 📄 Downloadable Versions
 
-- 📘 [English PDF](./RAIN_ english.pdf)
+- 📘 [English PDF](https://github.com/RyukuLogos/RAIN-rhythm-ai-model-2025-7-10/blob/main/RAIN_%20english.pdf)
 - 📙 [日本語PDF](RAIN日本語版.pdf)
 
 ## 🌐 Online HTML Version (English only)
