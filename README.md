@@ -1,13 +1,30 @@
 # RAIN: Rhythm is All You Need
 
-This repository contains the official HTML and PDF release of the RAIN theory.
+This repository contains the official release of the RAIN theory — a rhythm-based framework for understanding perception, meaning, and intelligence.
 
-📄 **Main HTML Document**: [`index.html`](https://ryukulogos.github.io/RAIN-rhythm-ai-model-2025-7-10/rain_theory_pdf.html)  
-📘 **PDF Version**: [`RAIN_Theory_Full.pdf`]english()  　　　　[日本語PDF版](RAIN日本語版.pdf)
+## 📄 Downloadable Versions
 
----
+- 📘 [English PDF](./RAIN_Theory_Full.pdf)
+- 📙 [日本語PDF](./RAIN_Theory_Japanese.pdf)
 
-## License
+## 🌐 Online HTML Version (English only)
 
-No license is currently applied to this repository.  
-All rights reserved by the author. Future license updates may follow.
+You can view the full HTML document here:  
+👉 https://your-username.github.io/rain-rythm-ai-2025-7-10/
+
+## 📜 License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit (e.g., "RAIN theory by ryuku logos"), provide a link to the license, and indicate if changes were made.
+
+## 📬 Contact
+
+For questions or collaboration inquiries, please contact:  
+**ryuku.logos.contact [at] gmail.com**
+
