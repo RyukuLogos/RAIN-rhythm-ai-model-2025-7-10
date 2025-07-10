@@ -26,5 +26,5 @@ Under the following terms:
 ## 📬 Contact
 
 For questions or collaboration inquiries, please contact:  
-**ryuku.logos.contact [at] gmail.com**
+**ryukunote@icloud.com**
 
