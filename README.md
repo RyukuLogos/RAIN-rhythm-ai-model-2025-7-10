@@ -10,7 +10,7 @@ This repository contains the official release of the RAIN theory — a rhythm-ba
 ## 🌐 Online HTML Version (English only)
 
 You can view the full HTML document here:  
-👉 https://your-username.github.io/rain-rythm-ai-2025-7-10/
+👉 https://ryukulogos.github.io/RAIN-rhythm-ai-model-2025-7-10/rain_theory_pdf.html
 
 ## 📜 License
 
