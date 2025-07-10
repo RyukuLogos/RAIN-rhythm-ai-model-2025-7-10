@@ -5,7 +5,7 @@ This repository contains the official release of the RAIN theory — a rhythm-ba
 ## 📄 Downloadable Versions
 
 - 📘 [English PDF](./RAIN_Theory_Full.pdf)
-- 📙 [日本語PDF](./RAIN_Theory_Japanese.pdf)
+- 📙 [日本語PDF](RAIN日本語版.pdf)
 
 ## 🌐 Online HTML Version (English only)
 
