@@ -26,5 +26,5 @@ Under the following terms:
 ## 📬 Contact
 
 For questions or collaboration inquiries, please contact:  
-**ryukunote@icloud.com**
+**ortis6984@gmail.com**
 
